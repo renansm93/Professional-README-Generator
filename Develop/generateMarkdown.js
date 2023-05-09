@@ -85,7 +85,7 @@ ${licenseDescription}
 
 ## Contributing
 
-${data.contributionGuidelines}
+${data.contributing}
 
 
 

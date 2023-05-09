@@ -37,7 +37,7 @@ This application is covered by the MIT license
 
 ## Contributing
 
-undefined
+Any improvements or advice are always welcome.
 
 
 
