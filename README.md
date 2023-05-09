@@ -45,7 +45,7 @@ Any improvements or advice are always welcome.
 
 ## Testing
 
-n/a
+Answer the questions promped in the terminal.
 
 
 
