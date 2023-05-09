@@ -23,7 +23,7 @@ To install this app you will need to clone the repository from github, install n
 
 To run the program, run the code below in Node according to the terminal prompts:
 
-<img src="./README.GIF" widht=400 height=400>
+<img src="./assets/README.GIF" widht=400 height=400>
 
 
 
